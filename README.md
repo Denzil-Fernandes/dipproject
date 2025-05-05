@@ -62,7 +62,7 @@ ________________________________________
 •	scikit-learn – For calculating mIoU (Jaccard index) using classification metrics.
 
 TEAM MEMBERS:
-DENZIL FERNANDES|
-ANWYL RYAN SOANS|
-ADEN RYAN DSOUZA|
+DENZIL FERNANDES-4SO22CD017
+ANWYL RYAN SOANS-4S022CD008
+ADEN RYAN DSOUZA-4SO22CD001
 
