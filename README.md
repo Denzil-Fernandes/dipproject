@@ -1,4 +1,4 @@
-Problem Statement
+Problem Statement:
 Old, low-quality, or damaged images often suffer from issues such as noise, scratches, poor contrast, and background distractions, making them unsuitable for digital use, archiving, or presentation. While professional image editing tools exist, they typically require significant expertise, time, and manual effort. There is a need for an accessible, automated tool that can restore and enhance such images while also evaluating the quality of restoration using standardized metrics.
 The Image Restoration & Background Removal App is a comprehensive image enhancement tool built using Python and Streamlit that enables users to upload images and apply various image restoration and analysis techniques. It is designed for both casual users and professionals who want to clean, enhance, and analyze visual quality of images—especially useful for old photos, scanned documents, or any degraded visual content.
 
